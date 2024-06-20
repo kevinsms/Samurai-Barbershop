@@ -63,7 +63,7 @@ context('quando o email já existe', function (){
         cy.get('.toast')
             .should('be.visible')
             .find('p')
-            .should('have.text', 'Email já cadastrado para outro usuário.')
+            .should('have.text', 'Email já cadastrado para outro usuário')
     })
 
 })
