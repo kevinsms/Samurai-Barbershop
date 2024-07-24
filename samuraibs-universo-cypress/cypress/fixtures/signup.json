@@ -1,0 +1,25 @@
+{
+  "success": {
+    "name": "Kevin Silva",
+    "email": "kevin.mss@hotmail.com",
+    "password": "pwd123"
+  },
+  "email_dup": {
+    "email": "kevin.mss2@hotmail.com",
+    "is_provider": true,
+    "name": "Kevin Silva2",
+    "password": "pwd123"
+  },
+  "email_inv": {
+    "email": "liza.yahoo.com",
+    "name": "Elizabeth Olsen",
+    "password": "pwd123"
+  },
+  "short_password": {
+    "name": "Jason Friday",
+    "email": "jason@gmail.com",
+    "password": null
+  }
+}
+
+
